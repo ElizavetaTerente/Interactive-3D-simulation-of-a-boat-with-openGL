@@ -1,6 +1,6 @@
 # Interactive-3D-simulation-of-a-boat-with-openGL
 
-Interactive 3D simulation of a boat featurs realistic water flow and dynamic day/night lighting modes. The boat floats naturally on water and can be controlled using keyboard input. User can freely adjust the camera to view the boat from any angle.
+Interactive 3D simulation of a boat features realistic water flow and dynamic day/night lighting modes. The boat floats naturally on water and can be controlled using keyboard input. User can freely adjust the camera to view the boat from any angle.
 
 ![final](https://github.com/user-attachments/assets/c2294493-0737-4be8-9bd5-4c1e530ab63d)
 
